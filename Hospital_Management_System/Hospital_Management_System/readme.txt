@@ -37,5 +37,3 @@ Patient
 user: 0725667841
 pass: 4066
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
